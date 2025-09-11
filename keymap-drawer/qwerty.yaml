@@ -38,9 +38,9 @@ layers:
   - {t: '?', s: '!'}
   - /
   - ESC SCRL SLOW
-  - SYM LCLK
+  - ZMK Studio
   - BS NUM
-  - ENTER
+  - ZMK Studio
   - SPACE NAV
   NUM:
   - ''
